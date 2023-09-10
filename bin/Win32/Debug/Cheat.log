@@ -1,0 +1,866 @@
+﻿  autowall.cpp
+  slowwalk.cpp
+  grenade_warning.cpp
+  animation_system.cpp
+  local_animations.cpp
+  resolver.cpp
+  setup_bones.cpp
+  backtrack.cpp
+  legitbot.cpp
+  airstrafe.cpp
+  bunnyhop.cpp
+  fakelag.cpp
+  key_binds.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\legitbot\legitbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\legitbot\legitbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\legitbot\legitbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\grenade project\grenade_warning.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\grenade project\grenade_warning.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\grenade project\grenade_warning.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\bunnyhop.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\bunnyhop.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\bunnyhop.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\lagcompensation\setup_bones.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\lagcompensation\setup_bones.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\lagcompensation\setup_bones.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\airstrafe.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\airstrafe.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\airstrafe.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\fakelag.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\fakelag.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\fakelag.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\autowall\autowall.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\autowall\autowall.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\autowall\autowall.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\fakewalk\slowwalk.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\fakewalk\slowwalk.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\fakewalk\slowwalk.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\lagcompensation\animation_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\lagcompensation\animation_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\lagcompensation\animation_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\lagcompensation\resolver.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\lagcompensation\resolver.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\lagcompensation\resolver.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\lagcompensation\local_animations.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\lagcompensation\local_animations.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\lagcompensation\local_animations.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\key_binds.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\key_binds.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\key_binds.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\bunnyhop.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\misc\bunnyhop.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\legitbot\legitbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\legitbot\legitbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\bunnyhop.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\misc\bunnyhop.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\legitbot\legitbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\legitbot\legitbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\lagcompensation\setup_bones.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\lagcompensation\setup_bones.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\lagcompensation\setup_bones.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\lagcompensation\setup_bones.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\grenade project\grenade_warning.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\grenade project\grenade_warning.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\fakelag.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\misc\fakelag.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\grenade project\grenade_warning.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\grenade project\grenade_warning.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\fakewalk\slowwalk.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\fakewalk\slowwalk.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\fakelag.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\misc\fakelag.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\fakewalk\slowwalk.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\fakewalk\slowwalk.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\lagcompensation\resolver.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\lagcompensation\resolver.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\lagcompensation\resolver.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\lagcompensation\resolver.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\lagcompensation\setup_bones.cpp(87,1): warning C4409: Unzulässige Anweisungsgröße
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\lagcompensation\setup_bones.cpp(112,1): warning C4409: Unzulässige Anweisungsgröße
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\lagcompensation\setup_bones.cpp(129,1): warning C4409: Unzulässige Anweisungsgröße
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\lagcompensation\setup_bones.cpp(338,120): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\airstrafe.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\misc\airstrafe.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\airstrafe.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\misc\airstrafe.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\autowall\autowall.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\autowall\autowall.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\autowall\autowall.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\autowall\autowall.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\lagcompensation\animation_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\lagcompensation\animation_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\lagcompensation\animation_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\lagcompensation\animation_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert cheats\misc\fakelag.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\grenade project\grenade_warning.h(50,4): warning C4838: Konvertierung von "int" zu "uintptr_t" erfordert eine einschränkende Konvertierung (Quelldatei wird kompiliert cheats\grenade project\grenade_warning.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\grenade project\grenade_warning.h(67,4): warning C4838: Konvertierung von "int" zu "uintptr_t" erfordert eine einschränkende Konvertierung (Quelldatei wird kompiliert cheats\grenade project\grenade_warning.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\grenade project\grenade_warning.h(210,5): warning C4102: "BREAKTROUGH": Unreferenzierte Bezeichnung (Quelldatei wird kompiliert cheats\grenade project\grenade_warning.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert cheats\lagcompensation\animation_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\lagcompensation\animation_system.cpp(185,9): warning C4552: "!=": Ergebnis des Ausdrucks nicht verwendet.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\lagcompensation\animation_system.cpp(385,18): warning C4101: "m_AnimationData": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\lagcompensation\local_animations.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\lagcompensation\local_animations.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\lagcompensation\animation_system.cpp(734,29): warning C4806: "==": unsichere Operation: kein Wert vom Typ "bool" erweitert auf Typ "MoveType_t" kann mit der angegebenen Konstante übereinstimmen
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\lagcompensation\local_animations.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\lagcompensation\local_animations.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\key_binds.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\misc\key_binds.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\key_binds.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\misc\key_binds.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert cheats\misc\key_binds.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\key_binds.cpp(20,173): warning C4805: "!=": unsichere Kombination von Typ "bool" mit Typ "ButtonCode_t" in einer Operation
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\key_binds.cpp(27,173): warning C4805: "!=": unsichere Kombination von Typ "bool" mit Typ "ButtonCode_t" in einer Operation
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\key_binds.cpp(69,174): warning C4805: "!=": unsichere Kombination von Typ "bool" mit Typ "ButtonCode_t" in einer Operation
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\key_binds.cpp(76,102): warning C4805: "!=": unsichere Kombination von Typ "ButtonCode_t" mit Typ "bool" in einer Operation
+  logs.cpp
+  misc.cpp
+  prediction_system.cpp
+  simulation.cpp
+  spammers.cpp
+  atomic_lock.cpp
+  Multithread.cpp
+  mutex.cpp
+  packed_heap.cpp
+  semaphores.cpp
+  shared_mutex.cpp
+  GameData.cpp
+  PostProccessing.cpp
+  aim.cpp
+  antiaim.cpp
+  knifebot.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\MultiThread\Multithread.cpp(98,4): warning C4390: ";": Leere kontrollierte Anweisung aufgetreten; ist dies beabsichtigt?
+  zeusbot.cpp
+  shared.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\postprocessing\PostProccessing.cpp(369,183): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\postprocessing\PostProccessing.cpp(369,161): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\postprocessing\PostProccessing.cpp(369,132): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\postprocessing\PostProccessing.cpp(369,110): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  bullet_tracers.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\logs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\logs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\logs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\misc.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\misc.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\misc.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\simulation.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\simulation.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\simulation.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\prediction_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\prediction_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\prediction_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\spammers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\spammers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\misc\spammers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\postprocessing\GameData.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\postprocessing\GameData.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\postprocessing\GameData.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\ragebot\antiaim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\ragebot\antiaim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\ragebot\antiaim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\ragebot\aim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\ragebot\aim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\ragebot\aim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\ragebot\knifebot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\ragebot\knifebot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\ragebot\knifebot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\logs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\misc\logs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\logs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\misc\logs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\misc.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\misc\misc.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\misc.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\misc\misc.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert cheats\misc\misc.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\visuals\world_esp.h(7,10): warning C4099: "Box": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\misc.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\util.hpp(19,8): message : Siehe Deklaration von "Box" (Quelldatei wird kompiliert cheats\misc\misc.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\ragebot\zeusbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\ragebot\zeusbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\ragebot\zeusbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.cpp(634,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.cpp(799,68): warning C4804: "<=": unsichere Verwendung des Typs "bool" in einer Operation
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.cpp(799,187): warning C4804: ">=": unsichere Verwendung des Typs "bool" in einer Operation
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\prediction_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\misc\prediction_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\prediction_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\misc\prediction_system.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\postprocessing\GameData.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\postprocessing\GameData.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\postprocessing\GameData.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\postprocessing\GameData.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\simulation.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\misc\simulation.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\spammers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\misc\spammers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\simulation.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\misc\simulation.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\misc\spammers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\misc\spammers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\ragebot\antiaim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\ragebot\antiaim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\ragebot\antiaim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\ragebot\antiaim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\shared_esp\shared.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\shared_esp\shared.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\shared_esp\shared.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\ragebot\aim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\ragebot\aim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\ragebot\aim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\ragebot\aim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert cheats\ragebot\antiaim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\ragebot\antiaim.cpp(218,33): warning C4804: "<=": unsichere Verwendung des Typs "bool" in einer Operation
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\ragebot\antiaim.cpp(218,156): warning C4804: ">=": unsichere Verwendung des Typs "bool" in einer Operation
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\bullet_tracers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\bullet_tracers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\bullet_tracers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\ragebot\antiaim.cpp(647,41): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert cheats\ragebot\aim.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\ragebot\aim.cpp(152,197): warning C4804: ">": unsichere Verwendung des Typs "bool" in einer Operation
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\ragebot\aim.cpp(214,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\ragebot\aim.cpp(246,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\ragebot\knifebot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\ragebot\knifebot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\ragebot\knifebot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\ragebot\knifebot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert cheats\ragebot\knifebot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\ragebot\zeusbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\ragebot\zeusbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\ragebot\zeusbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\ragebot\zeusbot.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert cheats\ragebot\zeusbot.cpp)
+  dormant_esp.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\shared_esp\shared.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\shared_esp\shared.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\shared_esp\shared.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\shared_esp\shared.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\bullet_tracers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\visuals\bullet_tracers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\bullet_tracers.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\visuals\bullet_tracers.cpp)
+  GrenadePrediction.cpp
+  hitchams.cpp
+  nightmode.cpp
+  other_esp.cpp
+  player_esp.cpp
+  png_data.cpp
+  world_esp.cpp
+  configs.cpp
+  aes256.cpp
+  Config.cpp
+  connection_win.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Configuration\aes256.cpp(276,5): warning C5033: "register" ist keine unterstützte Speicherklasse mehr.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Configuration\aes256.cpp(322,9): warning C5033: "register" ist keine unterstützte Speicherklasse mehr.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Configuration\aes256.cpp(382,5): warning C5033: "register" ist keine unterstützte Speicherklasse mehr.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Configuration\aes256.cpp(441,5): warning C5033: "register" ist keine unterstützte Speicherklasse mehr.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Configuration\aes256.cpp(449,5): warning C5033: "register" ist keine unterstützte Speicherklasse mehr.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Configuration\aes256.cpp(467,5): warning C5033: "register" ist keine unterstützte Speicherklasse mehr.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Configuration\aes256.cpp(475,5): warning C5033: "register" ist keine unterstützte Speicherklasse mehr.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Configuration\aes256.cpp(500,5): warning C5033: "register" ist keine unterstützte Speicherklasse mehr.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Configuration\aes256.cpp(525,5): warning C5033: "register" ist keine unterstützte Speicherklasse mehr.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Configuration\aes256.cpp(545,5): warning C5033: "register" ist keine unterstützte Speicherklasse mehr.
+  discord_register_win.cpp
+  discord_rpc.cpp
+  rpc_connection.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\dormant_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\dormant_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\dormant_esp.cpp)
+  serialization.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\hitchams.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\hitchams.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\hitchams.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\GrenadePrediction.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\GrenadePrediction.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\GrenadePrediction.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\nightmode.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\nightmode.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\nightmode.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\other_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\other_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\other_esp.cpp)
+  discord_rpc_init.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\player_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\player_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\player_esp.cpp)
+  hooks.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert configs\configs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert configs\configs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert configs\configs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\world_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\world_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert cheats\visuals\world_esp.cpp)
+  hooked_beginframe.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\dormant_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\visuals\dormant_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\dormant_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\visuals\dormant_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert Configuration\Config.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert Configuration\Config.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert Configuration\Config.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\hitchams.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\visuals\hitchams.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\hitchams.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\visuals\hitchams.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\GrenadePrediction.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\visuals\GrenadePrediction.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\nightmode.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\visuals\nightmode.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\GrenadePrediction.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\visuals\GrenadePrediction.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\nightmode.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\visuals\nightmode.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\other_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\visuals\other_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\other_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\visuals\other_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\visuals\nightmode.cpp(82,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert cheats\visuals\other_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\player_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\visuals\player_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\player_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\visuals\player_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert cheats\visuals\player_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert configs\configs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert configs\configs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert configs\configs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert configs\configs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\world_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert cheats\visuals\world_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\world_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert cheats\visuals\world_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\visuals\world_esp.h(7,10): warning C4099: "Box": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert cheats\visuals\world_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\util.hpp(19,8): message : Siehe Deklaration von "Box" (Quelldatei wird kompiliert cheats\visuals\world_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\grenade project\grenade_warning.h(50,4): warning C4838: Konvertierung von "int" zu "uintptr_t" erfordert eine einschränkende Konvertierung (Quelldatei wird kompiliert cheats\visuals\world_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\grenade project\grenade_warning.h(67,4): warning C4838: Konvertierung von "int" zu "uintptr_t" erfordert eine einschränkende Konvertierung (Quelldatei wird kompiliert cheats\visuals\world_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\grenade project\grenade_warning.h(210,5): warning C4102: "BREAKTROUGH": Unreferenzierte Bezeichnung (Quelldatei wird kompiliert cheats\visuals\world_esp.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\visuals\world_esp.cpp(183,41): warning C4805: "!=": unsichere Kombination von Typ "int" mit Typ "bool" in einer Operation
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\configs\configs.cpp(377,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\configs\configs.cpp(563,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert Configuration\Config.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert Configuration\Config.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert Configuration\Config.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert Configuration\Config.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert discord_rpc_init.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert discord_rpc_init.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert discord_rpc_init.cpp)
+  hooked_createmove.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks.cpp)
+  hooked_dme.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_beginframe.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_beginframe.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_beginframe.cpp)
+  hooked_drawfog.cpp
+  hooked_events.cpp
+  hooked_findmdl.cpp
+  hooked_fsn.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert discord_rpc_init.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert discord_rpc_init.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert discord_rpc_init.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert discord_rpc_init.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert hooks\hooks.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_beginframe.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_beginframe.cpp)
+  hooked_getmaterial.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_beginframe.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_beginframe.cpp)
+  hooked_ishltv.cpp
+  hooked_listleavesinbox.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_createmove.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_createmove.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_createmove.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_dme.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_dme.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_dme.cpp)
+  hooked_lockcursor.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_drawfog.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_drawfog.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_drawfog.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_events.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_events.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_events.cpp)
+  hooked_overrideview.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_findmdl.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_findmdl.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_findmdl.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_fsn.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_fsn.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_fsn.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_createmove.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_createmove.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_createmove.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_createmove.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_dme.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_dme.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_dme.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_dme.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert hooks\hooks\hooked_createmove.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\hooks\hooks\hooked_createmove.cpp(348,35): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\hooks\hooks\hooked_createmove.cpp(358,39): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_getmaterial.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_getmaterial.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_getmaterial.cpp)
+  hooked_painttraverse.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_drawfog.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_drawfog.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_drawfog.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_drawfog.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_events.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_events.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_events.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_events.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_ishltv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_ishltv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_ishltv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert hooks\hooks\hooked_events.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_findmdl.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_findmdl.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_findmdl.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_findmdl.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_listleavesinbox.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_listleavesinbox.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_listleavesinbox.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_fsn.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_fsn.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_fsn.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_fsn.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert hooks\hooks\hooked_fsn.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\visuals\world_esp.h(7,10): warning C4099: "Box": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_fsn.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\util.hpp(19,8): message : Siehe Deklaration von "Box" (Quelldatei wird kompiliert hooks\hooks\hooked_fsn.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_getmaterial.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_getmaterial.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_getmaterial.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_getmaterial.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_lockcursor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_lockcursor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_lockcursor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_ishltv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_ishltv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_ishltv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_ishltv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_listleavesinbox.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_listleavesinbox.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_listleavesinbox.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_listleavesinbox.cpp)
+  hooked_postscreeneffects.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_overrideview.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_overrideview.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_overrideview.cpp)
+  hooked_runcommand.cpp
+  hooked_sceneend.cpp
+  hooked_senddatagram.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_lockcursor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_lockcursor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_lockcursor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_lockcursor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_painttraverse.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_painttraverse.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_painttraverse.cpp)
+  hooked_player.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_overrideview.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_overrideview.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_overrideview.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_overrideview.cpp)
+  hooked_isconnected.cpp
+  hooked_trace.cpp
+  Renderr.cpp
+  vfunc_hook.cpp
+  code_editor.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_painttraverse.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_painttraverse.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_painttraverse.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_painttraverse.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\visuals\world_esp.h(7,10): warning C4099: "Box": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_painttraverse.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\visuals\player_esp.h(6,8): message : Siehe Deklaration von "Box" (Quelldatei wird kompiliert hooks\hooks\hooked_painttraverse.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert hooks\hooks\hooked_painttraverse.cpp)
+  imgui.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_postscreeneffects.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_postscreeneffects.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_postscreeneffects.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_sceneend.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_sceneend.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_sceneend.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_runcommand.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_runcommand.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_runcommand.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_senddatagram.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_senddatagram.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_senddatagram.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_player.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_player.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_player.cpp)
+  imgui_demo.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_postscreeneffects.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_postscreeneffects.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_postscreeneffects.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_postscreeneffects.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_trace.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_trace.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_trace.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_sceneend.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_sceneend.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_sceneend.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_sceneend.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_isconnected.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_isconnected.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\hooks\hooked_isconnected.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_runcommand.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_runcommand.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_runcommand.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_runcommand.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert hooks\hooks\hooked_runcommand.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\vfunc_hook.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\vfunc_hook.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert hooks\vfunc_hook.cpp)
+  imgui_draw.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert ImGui\code_editor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert ImGui\code_editor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert ImGui\code_editor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_senddatagram.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_senddatagram.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_senddatagram.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_senddatagram.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_player.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_player.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_player.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_player.cpp)
+  imgui_impl_dx9.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert ImGui\imgui.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert ImGui\imgui.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert ImGui\imgui.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_trace.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_trace.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_trace.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_trace.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_isconnected.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\hooks\hooked_isconnected.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\hooks\hooked_isconnected.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\hooks\hooked_isconnected.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert hooks\vfunc_hook.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert hooks\vfunc_hook.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert hooks\vfunc_hook.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert hooks\vfunc_hook.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert ImGui\code_editor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert ImGui\code_editor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert ImGui\code_editor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert ImGui\code_editor.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(87,28): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(462,16): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(495,25): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(500,11): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(513,12): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(532,12): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(543,12): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(759,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(1026,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(1637,37): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(1646,14): warning C4018: ">=": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(1648,37): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(1886,18): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(2276,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(2300,40): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(2354,49): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\ImGui\code_editor.cpp(2407,46): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert ImGui\imgui.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert ImGui\imgui.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert ImGui\imgui.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert ImGui\imgui.cpp)
+  lodepng.cpp
+  Clua.cpp
+  CLuaHook.cpp
+  main.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lodepng\lodepng.cpp(709,32): warning C4267: "=": Konvertierung von "size_t" nach "unsigned short", Datenverlust möglich
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lodepng\lodepng.cpp(734,44): warning C4267: "=": Konvertierung von "size_t" nach "unsigned short", Datenverlust möglich
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lodepng\lodepng.cpp(752,45): warning C4267: "=": Konvertierung von "size_t" nach "unsigned short", Datenverlust möglich
+  clip.cpp
+  clip_win.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert ImGui\imgui_draw.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert ImGui\imgui_draw.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert ImGui\imgui_draw.cpp)
+  Menu.cpp
+  Framework.cpp
+  RawData.cpp
+  Renderer.cpp
+  gloves.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert ImGui\imgui_draw.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert ImGui\imgui_draw.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert ImGui\imgui_draw.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert ImGui\imgui_draw.cpp)
+  item_definitions.cpp
+  parser.cpp
+  SkinChanger.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert ImGui\imgui_widgets.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert ImGui\imgui_widgets.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert ImGui\imgui_widgets.cpp)
+  Platform.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert main.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert main.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert main.cpp)
+  custom_sounds.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert ImGui\imgui_widgets.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert ImGui\imgui_widgets.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert ImGui\imgui_widgets.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert ImGui\imgui_widgets.cpp)
+  Vector2D.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert lua\Clua.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert lua\Clua.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert lua\Clua.cpp)
+  Vector4D.cpp
+  VMatrix.cpp
+  Memory.cpp
+  characterset.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert lua\Clua.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert lua\Clua.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert lua\Clua.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert lua\Clua.cpp)
+  checksum_crc.cpp
+  checksum_md5.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert nSkinz\gloves.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert nSkinz\gloves.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert nSkinz\gloves.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(106,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(236,10): warning C4101: "h": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(236,7): warning C4101: "w": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(245,10): warning C4101: "h": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(245,7): warning C4101: "w": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert main.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert main.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert main.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert main.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(468,29): warning C4474: "printf": zu viele Argumente für Formatzeichenfolge übergeben
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(468,29): message : Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\main.cpp(232,41): warning C4129: "g": nicht erkannte Folge von Escapesequenz
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\main.cpp(233,12): warning C4834: Der Rückgabewert einer Funktion mit dem "nodiscard"-Attribut wird verworfen.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert nSkinz\parser\parser.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert nSkinz\parser\parser.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert nSkinz\parser\parser.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert Menu\MenuFramework\Framework.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert Menu\MenuFramework\Framework.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert Menu\MenuFramework\Framework.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert Menu\MenuFramework\Framework.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert Menu\Menu.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert Menu\Menu.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert Menu\Menu.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert Menu\Menu.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(605,8): warning C4101: "nigga2": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(607,8): warning C4101: "nigga4": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(604,8): warning C4101: "nigga1": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(606,8): warning C4101: "nigga3": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(691,8): warning C4101: "nigga2": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(693,8): warning C4101: "nigga4": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(690,8): warning C4101: "nigga1": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(692,8): warning C4101: "nigga3": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(1456,1): warning C4102: "jmp": Unreferenzierte Bezeichnung
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(1581,1): warning C4102: "jmp": Unreferenzierte Bezeichnung
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert Menu\MenuFramework\Renderer.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert Menu\MenuFramework\Renderer.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2333,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert Menu\MenuFramework\Renderer.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert Menu\MenuFramework\Renderer.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3132,6): warning C4101: "niggggg": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3310,16): warning C4101: "held": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3492,16): warning C4101: "held": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3585,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3703,14): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3708,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3717,27): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3737,25): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3751,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3671,16): warning C4101: "held": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3888,14): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3893,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3900,27): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3920,25): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3934,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\checksum_md5.cpp(30,5): warning C5033: "register" ist keine unterstützte Speicherklasse mehr.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3856,16): warning C4101: "held": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4070,25): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4092,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4097,27): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4038,16): warning C4101: "held": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4227,25): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4250,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4255,27): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+  Color.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4351,25): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4375,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4380,27): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4318,16): warning C4101: "held": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4474,25): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4500,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4505,27): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4441,16): warning C4101: "held": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4625,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4630,27): warning C4553: "==": Ergebnis des Ausdrucks nicht verwendet. War "=" gemeint?
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(4563,16): warning C4101: "held": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert nSkinz\SkinChanger.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert nSkinz\SkinChanger.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert nSkinz\SkinChanger.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\Menu.cpp(469,16): warning C4566: Das durch den universellen Zeichennamen "\u221E" dargestellte Zeichen kann in der aktuellen Codepage (1252) nicht dargestellt werden.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(1802,29): warning C4101: "pro": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(1802,39): warning C4101: "hKeyp": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(1822,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(1830,21): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\visuals\world_esp.h(7,10): warning C4099: "Box": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert Menu\MenuFramework\Renderer.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\visuals\player_esp.h(6,8): message : Siehe Deklaration von "Box" (Quelldatei wird kompiliert Menu\MenuFramework\Renderer.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(1868,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert Menu\MenuFramework\Renderer.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(1927,25): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\lua\Clua.cpp(2035,45): warning C4554: "|": Überprüfen Sie die Operatorrangfolge auf mögliche Fehler. Verwenden Sie Klammern, um die Rangfolge zu verdeutlichen.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\Menu.cpp(1087,21): warning C4018: ">": Konflikt zwischen "signed" und "unsigned"
+  Convar.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert sdk\math\VMatrix.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert sdk\math\VMatrix.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert sdk\math\VMatrix.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert nSkinz\gloves.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert nSkinz\gloves.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert nSkinz\gloves.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert nSkinz\gloves.cpp)
+  threadtools.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2737,22): warning C4101: "pressed": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3104,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void IdaLovesMe::ui::Slider2<float>(const char *,T *,T,T,const char *,GuiFlags,float,int)" der Funktions-Vorlage.
+          with
+          [
+              T=float
+          ]
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2737,7): warning C4101: "hovered": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2737,16): warning C4101: "held": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2805,22): warning C4101: "pressed": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3108,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void IdaLovesMe::ui::Slider<int>(const char *,T *,T,T,const char *,GuiFlags,float,int)" der Funktions-Vorlage.
+          with
+          [
+              T=int
+          ]
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2805,7): warning C4101: "hovered": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2805,16): warning C4101: "held": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2662,22): warning C4101: "pressed": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3112,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void IdaLovesMe::ui::SliderDMG<int>(const char *,T *,T,T,const char *,GuiFlags,float,int)" der Funktions-Vorlage.
+          with
+          [
+              T=int
+          ]
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2662,7): warning C4101: "hovered": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2662,16): warning C4101: "held": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2868,22): warning C4101: "pressed": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(3116,9): message : Siehe Verweis auf die gerade kompilierte Instanziierung "void IdaLovesMe::ui::SliderNoText<int>(const char *,T *,T,T,const char *,GuiFlags,float,int)" der Funktions-Vorlage.
+          with
+          [
+              T=int
+          ]
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2868,7): warning C4101: "hovered": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\Menu\MenuFramework\Framework.cpp(2868,16): warning C4101: "held": Unreferenzierte lokale Variable
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert nSkinz\parser\parser.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert nSkinz\parser\parser.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert nSkinz\parser\parser.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert nSkinz\parser\parser.cpp)
+  UtlBuffer.cpp
+  UtlString.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert nSkinz\SkinChanger.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert nSkinz\SkinChanger.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert nSkinz\SkinChanger.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert nSkinz\SkinChanger.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\threadtools.h(170,2): error C2059: Syntaxfehler: "}" (Quelldatei wird kompiliert sdk\misc\threadtools.cpp)
+  structs.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\nSkinz\SkinChanger.cpp(966,16): warning C4101: "player_info": Unreferenzierte lokale Variable
+  csgo.cpp
+  ctx.cpp
+  draw_manager.cpp
+  math.cpp
+  md5.cpp
+  netmanager.cpp
+  recv.cpp
+  Render.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\csgo.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\csgo.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\csgo.cpp)
+  sha-256.cpp
+  twofish.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert sdk\misc\Convar.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert sdk\misc\Convar.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert sdk\misc\Convar.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert sdk\misc\Convar.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert sdk\structs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert sdk\structs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert sdk\structs.cpp)
+  util.cpp
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\UtlBuffer.hpp(23,24): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert sdk\misc\Convar.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert sdk\misc\Convar.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\twofish.cpp(207,14): warning C4293: ">>": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\twofish.cpp(214,14): warning C4293: ">>": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\twofish.cpp(265,14): warning C4293: ">>": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\twofish.cpp(272,14): warning C4293: ">>": Umschaltanzahl ist negativ oder zu groß, Verhalten undefiniert.
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\twofish.cpp(311,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\twofish.cpp(320,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\twofish.cpp(341,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\twofish.cpp(350,24): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\ctx.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\ctx.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\ctx.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\draw_manager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\draw_manager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\draw_manager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\math.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\math.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\math.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\netmanager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\netmanager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\netmanager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert sdk\structs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert sdk\structs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert sdk\structs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert sdk\structs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert sdk\structs.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\recv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\recv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\recv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\Render.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\Render.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\Render.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert utils\csgo.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert utils\csgo.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert utils\csgo.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert utils\csgo.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert utils\ctx.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert utils\ctx.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert utils\ctx.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert utils\ctx.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert utils\draw_manager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert utils\draw_manager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert utils\draw_manager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert utils\draw_manager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\draw_manager.cpp(225,20): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\draw_manager.cpp(836,22): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert utils\math.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert utils\math.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert utils\math.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert utils\math.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert utils\netmanager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert utils\netmanager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert utils\netmanager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert utils\netmanager.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(115,44): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\util.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(116,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\util.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\math\VMatrix.hpp(117,38): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust (Quelldatei wird kompiliert utils\util.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert utils\recv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert utils\recv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert utils\recv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert utils\recv.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert utils\Render.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert utils\Render.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert utils\Render.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert utils\Render.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\visuals\world_esp.h(7,10): warning C4099: "Box": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert utils\Render.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\visuals\player_esp.h(6,8): message : Siehe Deklaration von "Box" (Quelldatei wird kompiliert utils\Render.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert utils\Render.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\utils\Render.cpp(492,67): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\KeyValues.hpp(16,22): warning C4099: "IBaseFileSystem": Geben Sie den zuerst unter Verwendung von "struct" und jetzt unter Verwendung von "class" gesehenen Namen ein (Quelldatei wird kompiliert utils\util.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\interfaces\ILocalize.hpp(33,8): message : Siehe Deklaration von "IBaseFileSystem" (Quelldatei wird kompiliert utils\util.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(66,1): warning C4099: "typedescription_t": Geben Sie den zuerst unter Verwendung von "class" und jetzt unter Verwendung von "struct" gesehenen Namen ein (Quelldatei wird kompiliert utils\util.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\sdk\misc\datamap.h(65,8): message : Siehe Deklaration von "typedescription_t" (Quelldatei wird kompiliert utils\util.cpp)
+C:\Users\moham\Downloads\GameSense.Dog_Cheat1\GameSense.Dog_Cheat1\cheats\misc\misc.h(52,16): warning C4552: "+": Ergebnis des Ausdrucks nicht verwendet. (Quelldatei wird kompiliert utils\util.cpp)

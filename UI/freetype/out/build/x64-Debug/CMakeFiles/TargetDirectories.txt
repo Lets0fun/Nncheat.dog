@@ -1,0 +1,8 @@
+D:/gspub/UI/freetype/out/build/x64-Debug/CMakeFiles/package.dir
+D:/gspub/UI/freetype/out/build/x64-Debug/CMakeFiles/freetype.dir
+D:/gspub/UI/freetype/out/build/x64-Debug/CMakeFiles/package_source.dir
+D:/gspub/UI/freetype/out/build/x64-Debug/CMakeFiles/install/local.dir
+D:/gspub/UI/freetype/out/build/x64-Debug/CMakeFiles/install.dir
+D:/gspub/UI/freetype/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/gspub/UI/freetype/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+D:/gspub/UI/freetype/out/build/x64-Debug/CMakeFiles/list_install_components.dir

@@ -1,0 +1,680 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="cheats\lagcompensation\setup_bones.cpp" />
+    <ClCompile Include="cheats\misc\logs.cpp" />
+    <ClCompile Include="cheats\misc\simulation.cpp" />
+    <ClCompile Include="cheats\postprocessing\GameData.cpp" />
+    <ClCompile Include="Configuration\aes256.cpp" />
+    <ClCompile Include="DiscordRPCSDK\SourceFiles\connection_win.cpp" />
+    <ClCompile Include="DiscordRPCSDK\SourceFiles\discord_register_win.cpp" />
+    <ClCompile Include="DiscordRPCSDK\SourceFiles\discord_rpc.cpp" />
+    <ClCompile Include="DiscordRPCSDK\SourceFiles\rpc_connection.cpp" />
+    <ClCompile Include="DiscordRPCSDK\SourceFiles\serialization.cpp" />
+    <ClCompile Include="hooks\vfunc_hook.cpp" />
+    <ClCompile Include="ImGui\code_editor.cpp" />
+    <ClCompile Include="Menu\clip.cpp" />
+    <ClCompile Include="Menu\clip_win.cpp" />
+    <ClCompile Include="Menu\MenuFramework\RawData.cpp" />
+    <ClCompile Include="Menu\MenuFramework\Renderer.cpp" />
+    <ClCompile Include="nSkinz\item_definitions.cpp" />
+    <ClCompile Include="nSkinz\Utilities\Platform.cpp" />
+    <ClCompile Include="resources\custom_sounds.cpp" />
+    <ClCompile Include="sdk\math\Vector2D.cpp" />
+    <ClCompile Include="sdk\math\Vector4D.cpp" />
+    <ClCompile Include="sdk\math\VMatrix.cpp" />
+    <ClCompile Include="sdk\Memory.cpp" />
+    <ClCompile Include="sdk\misc\characterset.cpp" />
+    <ClCompile Include="sdk\misc\checksum_crc.cpp" />
+    <ClCompile Include="sdk\misc\checksum_md5.cpp" />
+    <ClCompile Include="sdk\misc\Color.cpp" />
+    <ClCompile Include="sdk\misc\Convar.cpp" />
+    <ClCompile Include="sdk\misc\threadtools.cpp" />
+    <ClCompile Include="sdk\misc\UtlBuffer.cpp" />
+    <ClCompile Include="sdk\misc\UtlString.cpp" />
+    <ClCompile Include="sdk\structs.cpp" />
+    <ClCompile Include="utils\csgo.cpp" />
+    <ClCompile Include="utils\ctx.cpp" />
+    <ClCompile Include="utils\math.cpp" />
+    <ClCompile Include="utils\md5.cpp" />
+    <ClCompile Include="utils\netmanager.cpp" />
+    <ClCompile Include="utils\recv.cpp" />
+    <ClCompile Include="utils\sha-256.cpp" />
+    <ClCompile Include="utils\twofish.cpp" />
+    <ClCompile Include="utils\util.cpp" />
+    <ClCompile Include="hooks\hooks\hooked_beginframe.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_createmove.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_dme.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_drawfog.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_events.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_findmdl.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_fsn.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_getmaterial.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_isconnected.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_ishltv.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_listleavesinbox.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_lockcursor.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_overrideview.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_painttraverse.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_player.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_postscreeneffects.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_runcommand.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_sceneend.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_senddatagram.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks\hooked_trace.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\hooks.cpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_dx9.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_impl_win32.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="ImGui\imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\misc\airstrafe.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\misc\bunnyhop.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="configs\configs.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Configuration\Config.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="utils\draw_manager.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\visuals\GrenadePrediction.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\ragebot\knifebot.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\misc\key_binds.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\legitbot\legitbot.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\fakewalk\slowwalk.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\ragebot\aim.cpp">
+      <Filter>cheat functions\rage</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\lagcompensation\animation_system.cpp">
+      <Filter>cheat functions\rage</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\ragebot\antiaim.cpp">
+      <Filter>cheat functions\rage</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\autowall\autowall.cpp">
+      <Filter>cheat functions\rage</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\misc\fakelag.cpp">
+      <Filter>cheat functions\rage</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\misc\prediction_system.cpp">
+      <Filter>cheat functions\rage</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\lagcompensation\resolver.cpp">
+      <Filter>cheat functions\rage</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\misc\spammers.cpp">
+      <Filter>cheat functions\rage</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\legitbot\backtrack.cpp">
+      <Filter>cheat functions\rage</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\grenade project\grenade_warning.cpp">
+      <Filter>cheat functions\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\visuals\nightmode.cpp">
+      <Filter>cheat functions\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\visuals\other_esp.cpp">
+      <Filter>cheat functions\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\visuals\player_esp.cpp">
+      <Filter>cheat functions\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\postprocessing\PostProccessing.cpp">
+      <Filter>cheat functions\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="hooks\Renderr.cpp">
+      <Filter>cheat functions\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\visuals\dormant_esp.cpp">
+      <Filter>cheat functions\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\visuals\bullet_tracers.cpp">
+      <Filter>cheat functions\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\ragebot\zeusbot.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\misc\misc.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu\Menu.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\lagcompensation\local_animations.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu\MenuFramework\Framework.cpp">
+      <Filter>cheat functions</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\visuals\world_esp.cpp">
+      <Filter>cheat functions\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="cheats\visuals\hitchams.cpp">
+      <Filter>cheat functions\visual</Filter>
+    </ClCompile>
+    <ClCompile Include="lua\Clua.cpp">
+      <Filter>cheat functions\lua</Filter>
+    </ClCompile>
+    <ClCompile Include="lua\CLuaHook.cpp">
+      <Filter>cheat functions\lua</Filter>
+    </ClCompile>
+    <ClCompile Include="lodepng\lodepng.cpp" />
+    <ClCompile Include="cheats\visuals\png_data.cpp" />
+    <ClCompile Include="nSkinz\parser\parser.cpp" />
+    <ClCompile Include="cheats\shared_esp\shared.cpp" />
+    <ClCompile Include="utils\Render.cpp" />
+    <ClCompile Include="nSkinz\gloves.cpp" />
+    <ClCompile Include="discord_rpc_init.cpp" />
+    <ClCompile Include="cheats\MultiThread\atomic_lock.cpp" />
+    <ClCompile Include="cheats\MultiThread\Multithread.cpp" />
+    <ClCompile Include="cheats\MultiThread\mutex.cpp" />
+    <ClCompile Include="cheats\MultiThread\packed_heap.cpp" />
+    <ClCompile Include="cheats\MultiThread\semaphores.cpp" />
+    <ClCompile Include="cheats\MultiThread\shared_mutex.cpp" />
+    <ClCompile Include="nSkinz\SkinChanger.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BASS\API.h" />
+    <ClInclude Include="BASS\bass.h" />
+    <ClInclude Include="BASS\dll.h" />
+    <ClInclude Include="Bytesa.h" />
+    <ClInclude Include="cheats\lagcompensation\setup_bones.h" />
+    <ClInclude Include="cheats\misc\logs.h" />
+    <ClInclude Include="cheats\misc\simulation.h" />
+    <ClInclude Include="cheats\postprocessing\GameData.h" />
+    <ClInclude Include="cheats\visuals\radar.h" />
+    <ClInclude Include="configs\base64.h" />
+    <ClInclude Include="Configuration\aes256.hpp" />
+    <ClInclude Include="Configuration\base64.h" />
+    <ClInclude Include="constchars.h" />
+    <ClInclude Include="detours.h" />
+    <ClInclude Include="DiscordRPCSDK\Includes\discord_register.h" />
+    <ClInclude Include="DiscordRPCSDK\Includes\discord_rpc.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\backoff.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\connection.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\msg_queue.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\allocators.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\cursorstreamwrapper.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\document.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\encodedstream.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\encodings.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\error\en.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\error\error.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\filereadstream.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\filewritestream.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\fwd.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\biginteger.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\clzll.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\diyfp.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\dtoa.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\ieee754.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\itoa.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\meta.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\pow10.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\regex.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\stack.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\strfunc.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\strtod.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\internal\swap.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\istreamwrapper.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\memorybuffer.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\memorystream.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\msinttypes\inttypes.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\msinttypes\stdint.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\ostreamwrapper.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\pointer.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\prettywriter.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\rapidjson.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\reader.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\schema.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\stream.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\stringbuffer.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rapidjson\writer.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\rpc_connection.h" />
+    <ClInclude Include="DiscordRPCSDK\SourceFiles\serialization.h" />
+    <ClInclude Include="hooks\vfunc_hook.hpp" />
+    <ClInclude Include="ImGuiConnect.h" />
+    <ClInclude Include="ImGui\code_editor.h" />
+    <ClInclude Include="ImGui\imconfig.h" />
+    <ClInclude Include="ImGui\imstb_rectpack.h" />
+    <ClInclude Include="ImGui\imstb_textedit.h" />
+    <ClInclude Include="ImGui\imstb_truetype.h" />
+    <ClInclude Include="ImGui\include\freetype\config\ftconfig.h" />
+    <ClInclude Include="ImGui\include\freetype\config\ftheader.h" />
+    <ClInclude Include="ImGui\include\freetype\config\ftmodule.h" />
+    <ClInclude Include="ImGui\include\freetype\config\ftoption.h" />
+    <ClInclude Include="ImGui\include\freetype\config\ftstdlib.h" />
+    <ClInclude Include="ImGui\include\freetype\freetype.h" />
+    <ClInclude Include="ImGui\include\freetype\ftadvanc.h" />
+    <ClInclude Include="ImGui\include\freetype\ftbbox.h" />
+    <ClInclude Include="ImGui\include\freetype\ftbdf.h" />
+    <ClInclude Include="ImGui\include\freetype\ftbitmap.h" />
+    <ClInclude Include="ImGui\include\freetype\ftbzip2.h" />
+    <ClInclude Include="ImGui\include\freetype\ftcache.h" />
+    <ClInclude Include="ImGui\include\freetype\ftchapters.h" />
+    <ClInclude Include="ImGui\include\freetype\ftcid.h" />
+    <ClInclude Include="ImGui\include\freetype\ftcolor.h" />
+    <ClInclude Include="ImGui\include\freetype\ftdriver.h" />
+    <ClInclude Include="ImGui\include\freetype\fterrdef.h" />
+    <ClInclude Include="ImGui\include\freetype\fterrors.h" />
+    <ClInclude Include="ImGui\include\freetype\ftfntfmt.h" />
+    <ClInclude Include="ImGui\include\freetype\ftgasp.h" />
+    <ClInclude Include="ImGui\include\freetype\ftglyph.h" />
+    <ClInclude Include="ImGui\include\freetype\ftgxval.h" />
+    <ClInclude Include="ImGui\include\freetype\ftgzip.h" />
+    <ClInclude Include="ImGui\include\freetype\ftimage.h" />
+    <ClInclude Include="ImGui\include\freetype\ftincrem.h" />
+    <ClInclude Include="ImGui\include\freetype\ftlcdfil.h" />
+    <ClInclude Include="ImGui\include\freetype\ftlist.h" />
+    <ClInclude Include="ImGui\include\freetype\ftlzw.h" />
+    <ClInclude Include="ImGui\include\freetype\ftmac.h" />
+    <ClInclude Include="ImGui\include\freetype\ftmm.h" />
+    <ClInclude Include="ImGui\include\freetype\ftmodapi.h" />
+    <ClInclude Include="ImGui\include\freetype\ftmoderr.h" />
+    <ClInclude Include="ImGui\include\freetype\ftotval.h" />
+    <ClInclude Include="ImGui\include\freetype\ftoutln.h" />
+    <ClInclude Include="ImGui\include\freetype\ftparams.h" />
+    <ClInclude Include="ImGui\include\freetype\ftpfr.h" />
+    <ClInclude Include="ImGui\include\freetype\ftrender.h" />
+    <ClInclude Include="ImGui\include\freetype\ftsizes.h" />
+    <ClInclude Include="ImGui\include\freetype\ftsnames.h" />
+    <ClInclude Include="ImGui\include\freetype\ftstroke.h" />
+    <ClInclude Include="ImGui\include\freetype\ftsynth.h" />
+    <ClInclude Include="ImGui\include\freetype\ftsystem.h" />
+    <ClInclude Include="ImGui\include\freetype\fttrigon.h" />
+    <ClInclude Include="ImGui\include\freetype\fttypes.h" />
+    <ClInclude Include="ImGui\include\freetype\ftwinfnt.h" />
+    <ClInclude Include="ImGui\include\freetype\t1tables.h" />
+    <ClInclude Include="ImGui\include\freetype\ttnameid.h" />
+    <ClInclude Include="ImGui\include\freetype\tttables.h" />
+    <ClInclude Include="ImGui\include\freetype\tttags.h" />
+    <ClInclude Include="ImGui\include\ft2build.h" />
+    <ClInclude Include="includes.hpp" />
+    <ClInclude Include="lua\forward.hpp" />
+    <ClInclude Include="lua\HTTPRequest.hpp" />
+    <ClInclude Include="lua\sol.hpp" />
+    <ClInclude Include="MenuFramework\color.h" />
+    <ClInclude Include="MenuFramework\RawData.h" />
+    <ClInclude Include="MenuFramework\Renderer.h" />
+    <ClInclude Include="Menu\clip.h" />
+    <ClInclude Include="Menu\clip_lock_impl.h" />
+    <ClInclude Include="Menu\Globalincludes.h" />
+    <ClInclude Include="Menu\LazyImport.hpp" />
+    <ClInclude Include="Menu\MenuFramework\color.h" />
+    <ClInclude Include="Menu\MenuFramework\Framework.h" />
+    <ClInclude Include="Menu\MenuFramework\RawData.h" />
+    <ClInclude Include="Menu\MenuFramework\Renderer.h" />
+    <ClInclude Include="Menu\WndProc.h" />
+    <ClInclude Include="nSkinz\item_definitions.hpp" />
+    <ClInclude Include="nSkinz\Utilities\Platform.hpp" />
+    <ClInclude Include="nSkinz\Utilities\vmt_smart_hook.hpp" />
+    <ClInclude Include="resources\custom_sounds.hpp" />
+    <ClInclude Include="resources\sounds.hpp" />
+    <ClInclude Include="sdk\interfaces\CClientState.hpp" />
+    <ClInclude Include="sdk\interfaces\CInput.hpp" />
+    <ClInclude Include="sdk\interfaces\IAppSystem.hpp" />
+    <ClInclude Include="sdk\interfaces\IBaseClientDll.hpp" />
+    <ClInclude Include="sdk\interfaces\IClientEntity.hpp" />
+    <ClInclude Include="sdk\interfaces\IClientEntityList.hpp" />
+    <ClInclude Include="sdk\interfaces\IClientMode.hpp" />
+    <ClInclude Include="sdk\interfaces\IClientNetworkable.hpp" />
+    <ClInclude Include="sdk\interfaces\IClientRenderable.hpp" />
+    <ClInclude Include="sdk\interfaces\IClientThinkable.hpp" />
+    <ClInclude Include="sdk\interfaces\IClientUnknown.hpp" />
+    <ClInclude Include="sdk\interfaces\ICollideable.hpp" />
+    <ClInclude Include="sdk\interfaces\IConVar.hpp" />
+    <ClInclude Include="sdk\interfaces\ICvar.hpp" />
+    <ClInclude Include="sdk\interfaces\IEngineSound.hpp" />
+    <ClInclude Include="sdk\interfaces\IEngineTrace.hpp" />
+    <ClInclude Include="sdk\interfaces\IGameEventManager.hpp" />
+    <ClInclude Include="sdk\interfaces\IInputSystem.hpp" />
+    <ClInclude Include="sdk\interfaces\ILocalize.hpp" />
+    <ClInclude Include="sdk\interfaces\IMaterialSystem.hpp" />
+    <ClInclude Include="sdk\interfaces\IMDLCache.hpp" />
+    <ClInclude Include="sdk\interfaces\IMoveHelper.hpp" />
+    <ClInclude Include="sdk\interfaces\IPanel.hpp" />
+    <ClInclude Include="sdk\interfaces\IPhysics.hpp" />
+    <ClInclude Include="sdk\interfaces\IPrediction.hpp" />
+    <ClInclude Include="sdk\interfaces\IRenderView.hpp" />
+    <ClInclude Include="sdk\interfaces\ISoundServices.hpp" />
+    <ClInclude Include="sdk\interfaces\ISurface.hpp" />
+    <ClInclude Include="sdk\interfaces\IVDebugOverlay.hpp" />
+    <ClInclude Include="sdk\interfaces\IVEngineClient.hpp" />
+    <ClInclude Include="sdk\interfaces\IViewRenderBeams.hpp" />
+    <ClInclude Include="sdk\interfaces\IVModelInfoClient.hpp" />
+    <ClInclude Include="sdk\interfaces\IVModelRender.hpp" />
+    <ClInclude Include="sdk\interfaces\IWeaponSystem.hpp" />
+    <ClInclude Include="sdk\interfaces\memalloc.h" />
+    <ClInclude Include="sdk\ItemSchema.h" />
+    <ClInclude Include="sdk\math\QAngle.hpp" />
+    <ClInclude Include="sdk\math\Vector.hpp" />
+    <ClInclude Include="sdk\math\Vector2D.hpp" />
+    <ClInclude Include="sdk\math\Vector4D.hpp" />
+    <ClInclude Include="sdk\math\VMatrix.hpp" />
+    <ClInclude Include="sdk\Memory.h" />
+    <ClInclude Include="sdk\misc\BaseHandle.hpp" />
+    <ClInclude Include="sdk\misc\BeamInfo_t.hpp" />
+    <ClInclude Include="sdk\misc\bf_write.h" />
+    <ClInclude Include="sdk\misc\CBoneAccessor.hpp" />
+    <ClInclude Include="sdk\misc\characterset.hpp" />
+    <ClInclude Include="sdk\misc\checksum_crc.hpp" />
+    <ClInclude Include="sdk\misc\checksum_md5.hpp" />
+    <ClInclude Include="sdk\misc\ClientClass.hpp" />
+    <ClInclude Include="sdk\misc\Color.hpp" />
+    <ClInclude Include="sdk\misc\Convar.hpp" />
+    <ClInclude Include="sdk\misc\CUserCmd.hpp" />
+    <ClInclude Include="sdk\misc\C_CSPlayerResource.h" />
+    <ClInclude Include="sdk\misc\datamap.h" />
+    <ClInclude Include="sdk\misc\EHandle.hpp" />
+    <ClInclude Include="sdk\misc\Enums.hpp" />
+    <ClInclude Include="sdk\misc\FnvHash.hpp" />
+    <ClInclude Include="sdk\misc\GlobalVars.hpp" />
+    <ClInclude Include="sdk\misc\glow_outline_effect.hpp" />
+    <ClInclude Include="sdk\misc\IHandleEntity.hpp" />
+    <ClInclude Include="sdk\misc\KeyValues.hpp" />
+    <ClInclude Include="sdk\misc\platform.hpp" />
+    <ClInclude Include="sdk\misc\Recv.hpp" />
+    <ClInclude Include="sdk\misc\Studio.hpp" />
+    <ClInclude Include="sdk\misc\threadtools.h" />
+    <ClInclude Include="sdk\misc\UtlBuffer.hpp" />
+    <ClInclude Include="sdk\misc\UtlMemory.hpp" />
+    <ClInclude Include="sdk\misc\UtlString.hpp" />
+    <ClInclude Include="sdk\misc\UtlVector.hpp" />
+    <ClInclude Include="sdk\misc\UtlVectorSimple.hpp" />
+    <ClInclude Include="sdk\misc\vfunc.hpp" />
+    <ClInclude Include="sdk\structs.hpp" />
+    <ClInclude Include="utils\crypt_str.h" />
+    <ClInclude Include="utils\csgo.hpp" />
+    <ClInclude Include="utils\ctx.hpp" />
+    <ClInclude Include="utils\imports.h" />
+    <ClInclude Include="utils\json.hpp" />
+    <ClInclude Include="utils\m128.h" />
+    <ClInclude Include="utils\math.hpp" />
+    <ClInclude Include="utils\md5.h" />
+    <ClInclude Include="utils\netmanager.hpp" />
+    <ClInclude Include="utils\recv.h" />
+    <ClInclude Include="utils\sha-256.h" />
+    <ClInclude Include="utils\singleton.h" />
+    <ClInclude Include="utils\twofish.h" />
+    <ClInclude Include="utils\util.hpp" />
+    <ClInclude Include="version.h" />
+    <ClInclude Include="hooks\hooks.hpp">
+      <Filter>cheat functions\hooks</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_freetype.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_dx9.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_impl_win32.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="ImGui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\misc\airstrafe.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\misc\bunnyhop.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="configs\configs.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="lua\config.hpp">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="Configuration\Config.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="utils\draw_manager.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\visuals\GrenadePrediction.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\ragebot\knifebot.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\misc\key_binds.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\legitbot\legitbot.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\fakewalk\slowwalk.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\ragebot\aim.h">
+      <Filter>cheat functions\rage</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\lagcompensation\animation_system.h">
+      <Filter>cheat functions\rage</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\ragebot\antiaim.h">
+      <Filter>cheat functions\rage</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\autowall\autowall.h">
+      <Filter>cheat functions\rage</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\misc\fakelag.h">
+      <Filter>cheat functions\rage</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\misc\prediction_system.h">
+      <Filter>cheat functions\rage</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\lagcompensation\resolver.h">
+      <Filter>cheat functions\rage</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\misc\spammers.h">
+      <Filter>cheat functions\rage</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\legitbot\backtrack.h">
+      <Filter>cheat functions\rage</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\grenade project\grenade_warning.h">
+      <Filter>cheat functions\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\visuals\nightmode.h">
+      <Filter>cheat functions\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\visuals\other_esp.h">
+      <Filter>cheat functions\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\visuals\player_esp.h">
+      <Filter>cheat functions\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\postprocessing\PostProccessing.h">
+      <Filter>cheat functions\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="hooks\Render.h">
+      <Filter>cheat functions\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\visuals\dormant_esp.h">
+      <Filter>cheat functions\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\visuals\bullet_tracers.h">
+      <Filter>cheat functions\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\ragebot\zeusbot.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\misc\misc.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu\Menu.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="lua\menu_item.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\lagcompensation\local_animations.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuFramework\Framework.h">
+      <Filter>cheat functions</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\visuals\world_esp.h">
+      <Filter>cheat functions\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="cheats\visuals\hitchams.h">
+      <Filter>cheat functions\visual</Filter>
+    </ClInclude>
+    <ClInclude Include="lua\Clua.h">
+      <Filter>cheat functions\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="lua\CLuaHook.h">
+      <Filter>cheat functions\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="lua\lauxlib.h">
+      <Filter>cheat functions\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="lua\lua.h">
+      <Filter>cheat functions\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="lua\lua.hpp">
+      <Filter>cheat functions\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="lua\luaconf.h">
+      <Filter>cheat functions\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="lua\luajit.h">
+      <Filter>cheat functions\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="lua\lualib.h">
+      <Filter>cheat functions\lua</Filter>
+    </ClInclude>
+    <ClInclude Include="lodepng\lodepng.h" />
+    <ClInclude Include="cheats\visuals\png_data.h" />
+    <ClInclude Include="nSkinz\parser\parser.hpp" />
+    <ClInclude Include="cheats\shared_esp\shared.hpp" />
+    <ClInclude Include="utils\Render.h" />
+    <ClInclude Include="nSkinz\gloves.hpp" />
+    <ClInclude Include="discord_rpc_init.h" />
+    <ClInclude Include="cheats\MultiThread\atomic_lock.h" />
+    <ClInclude Include="cheats\MultiThread\Multithread.hpp" />
+    <ClInclude Include="cheats\MultiThread\mutex.h" />
+    <ClInclude Include="cheats\MultiThread\packed_heap.h" />
+    <ClInclude Include="cheats\MultiThread\semaphores.h" />
+    <ClInclude Include="cheats\MultiThread\shared_mutex.h" />
+    <ClInclude Include="nSkinz\SkinChanger.h" />
+    <ClInclude Include="singleton.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="detours.lib" />
+    <Library Include="lua\lua51.lib">
+      <Filter>cheat functions\lua</Filter>
+    </Library>
+    <Library Include="lua\luajit.lib">
+      <Filter>cheat functions\lua</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+    <None Include="detours.pdb" />
+    <None Include="ImGui\LICENSE" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{7fa0c48b-91a7-48de-af76-5e4f2b7ef509}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat functions">
+      <UniqueIdentifier>{20d93987-c085-4f48-8487-d5b1ec32a064}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat functions\rage">
+      <UniqueIdentifier>{c7c7bc0e-af6f-4cb0-8b76-e719404f6ef7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat functions\visual">
+      <UniqueIdentifier>{039a1105-d38a-43f0-bfdc-b856437ae218}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat functions\hooks">
+      <UniqueIdentifier>{ea23443b-061d-4c17-9211-f6a57cbcf47b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="cheat functions\lua">
+      <UniqueIdentifier>{76074862-619e-4e83-863a-f37de9bd2007}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="cheats\visuals\Image.png" />
+  </ItemGroup>
+</Project>
